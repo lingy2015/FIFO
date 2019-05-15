@@ -1,0 +1,3 @@
+axi_aw_bits_id:4
+axi_aw_bits_addr:32
+axi_aw_bits_size:3
